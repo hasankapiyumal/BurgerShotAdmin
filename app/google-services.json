@@ -12,7 +12,20 @@
           "package_name": "com.zaviron.burgershotadminapp"
         }
       },
-      "oauth_client": [],
+      "oauth_client": [
+        {
+          "client_id": "283761979759-l4j01qhr325cj4sig63pobeklist1e99.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.zaviron.burgershotadminapp",
+            "certificate_hash": "edb7a3353ff4c707251df0351164a20a1437d035"
+          }
+        },
+        {
+          "client_id": "283761979759-eai3o1dec2e6fpbjt3g1l9m4bhq7sc1h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
       "api_key": [
         {
           "current_key": "AIzaSyBpKmnT6RTHVBQmr1hpReNSRINhodwuQSE"
@@ -20,7 +33,49 @@
       ],
       "services": {
         "appinvite_service": {
-          "other_platform_oauth_client": []
+          "other_platform_oauth_client": [
+            {
+              "client_id": "283761979759-eai3o1dec2e6fpbjt3g1l9m4bhq7sc1h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:283761979759:android:313552428706b7e6a3f89a",
+        "android_client_info": {
+          "package_name": "com.zaviron.burgershotapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "283761979759-hcgq2k40flvt09tdtpoilnj72lc7ancv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.zaviron.burgershotapp",
+            "certificate_hash": "edb7a3353ff4c707251df0351164a20a1437d035"
+          }
+        },
+        {
+          "client_id": "283761979759-eai3o1dec2e6fpbjt3g1l9m4bhq7sc1h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpKmnT6RTHVBQmr1hpReNSRINhodwuQSE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "283761979759-eai3o1dec2e6fpbjt3g1l9m4bhq7sc1h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
         }
       }
     }
